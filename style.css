@@ -191,7 +191,9 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .addTransactions h4 {
-    width: 70%;
+    font-size: 19px;
+    font-weight: 500;
+    width: 100%;
     text-align: center;
 }
 
@@ -269,6 +271,7 @@ body::-webkit-scrollbar-thumb:hover {
 .recentTransactions h4 {
     font-size: 19px;
     font-weight: 500;
+    width: 100%;
     margin-bottom: 10px;
     text-align: center;
 }
